@@ -39,7 +39,11 @@ Select the specific frame while generating code using Anima plugin.
 
 
 ## OUTPUT:
+<img width="1440" height="861" alt="Screenshot 2025-11-26 at 10 38 11 PM" src="https://github.com/user-attachments/assets/91ee0fbc-8dc6-4dbc-9725-615b94af0b64" />
+<img width="1440" height="862" alt="Screenshot 2025-11-26 at 10 38 32 PM" src="https://github.com/user-attachments/assets/ccefe645-bebc-465d-886b-2dc22ec44b78" />
 
+<img width="1440" height="860" alt="Screenshot 2025-11-26 at 10 38 48 PM" src="https://github.com/user-attachments/assets/0d8c47ac-5ca4-4f18-9d2d-5c4e35acad68" />
+<img width="1440" height="860" alt="Screenshot 2025-11-26 at 10 42 40 PM" src="https://github.com/user-attachments/assets/fc267fe1-9682-4414-98dd-58321e220ccf" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration using Figma UI tool is completed successfully.
