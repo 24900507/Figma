@@ -1,5 +1,7 @@
-# Ex08 Event Registration Web Application
-## Date:
+# EX 09 Event Registration Web Application
+## Developed by : AKASH G
+## Register No. : 212224100004
+## Date: 20.11.2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration using Figma UI tool.
